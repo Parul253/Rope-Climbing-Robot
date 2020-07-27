@@ -9,7 +9,7 @@ This Rope climbing bot is used to climb ropes in an easy and efficient manner to
 ![model](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Bot%20image.JPG)
 <!-- abstract-->
 ## **Motivation**
-Peolpe from various fields like mining , miltary , or other often come across situations where they can not get direct access to certain area say inside a cave in a mine . 
+People from various fields like mining , miltary , or other often come across situations where they can not get direct access to certain area say inside a cave in a mine . 
 There was a need of rope climbing robot which uses a single rope and can reach easily to any desired place in any terrain and most of the robots we come across uses double rope and are difficult to use. Also many day to day households work can be done easily with a rope climbing robot and thus we need a robot which can used in daily lives .     
 
 <!-- motivation-->
@@ -31,9 +31,9 @@ To prevent the sliding roller assembly to deviate from its path in a rotatory mo
 The slider also creates a second support for the lead screw . Otherwise the lead screw will deviate from its position. 
 ##### Motor wheel assembly #####
 ![gear](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Motor%20Gear%20Assembly.JPG)<br>
-After gripping the rope firmly, the bot has to climb the rope . The basic pprincipal used along the rope is rolling. <br>
+After gripping the rope firmly, the bot has to climb the rope . The basic principal used along the rope is rolling. <br>
 The design consists of a DC motor which is connected to three spur gear asssembly . The end gears are connected to each wheel . The design consists of two wheel pairs on either side of the rope. <br> 
-The wheels rolls on the surface of the rope which is powered by a DC motor (motor should provide high torque and power). In presence of sufficient friction between the wheels and the rope , t.he robot tranveses the rope . The wheel should offer sufficient friction to support the robot in the vertical position . <br>
+The wheels rolls on the surface of the rope which is powered by a DC motor (motor should provide high torque and power). In presence of sufficient friction between the wheels and the rope , the robot traverses the rope . The wheel should offer sufficient friction to support the robot in the vertical position . <br>
 The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.<br>
 Let the radius of the wheel be r and θ is the angle of contact and h is the rope thickness. The surface area S in contact with the wheel is given as <br>
 > S = (2πrhθ)/360 
